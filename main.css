@@ -1,0 +1,28 @@
+.msimg {
+    border: 2px solid black;
+    display:inline-block;
+    text-align:center;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius:8px;
+    margin-left: 15px;
+    margin-top: 15vh;
+}
+body {
+    font-family: sans-serif;
+}
+
+#microsoys {
+    display:block;
+    text-align: center;
+}
+
+.msimg input {
+    border: 2px solid yellow;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: yellow;
+    font-family: monospace;
+}
