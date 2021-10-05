@@ -12,7 +12,7 @@
     width: 100px;
 }
 body {
-    font-family: sans-serif;
+    font-family: monospace;
 }
 
 #microsoys {
@@ -26,4 +26,8 @@ body {
     border-radius: 10px;
     background-color: yellow;
     font-family: monospace;
+}
+ul {
+    display:inline-block;
+    list-style-type:none; 
 }
