@@ -28,6 +28,6 @@ body {
     font-family: monospace;
 }
 ul {
-    display:inline-block;
+    display:inline-flex;
     list-style-type:none; 
 }
